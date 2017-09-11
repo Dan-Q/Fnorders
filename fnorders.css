@@ -1,8 +1,46 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'), url('fonts/montserrat-v10-latin-600.woff2') format('woff2'), url('fonts/montserrat-v10-latin-600.woff') format('woff');
+}
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  background: black;
   color: white;
+  font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+  background: black url(images/icons/scalable.svg) no-repeat 50% 50%;
+  background-size: contain;
+  text-align: center;
+  font-size: 24px;
+}
+
+main {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#fnorders-wrapper {
+  min-height: 9em;
+}
+
+#fnorders-prefix {
+  font-size: 32px;
+}
+
+button {
+  font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+  font-size: 22px;
+  color: black;
+  padding: 10px 20px;
+  background: linear-gradient(to bottom, white 0%, white 50%, #b5b5b5);
+  border-radius: 10px;
+  border: 0px solid #2ea100;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5), inset 0px 0px 3px rgba(255, 255, 255, 1);
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(255, 255, 255, 1);
+  outline: 0;
 }

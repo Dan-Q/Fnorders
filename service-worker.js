@@ -13,7 +13,9 @@ const OFFLINE_ASSETS = [ // thiings we prefer to store offline
   '/images/icons/180.png',
   '/images/icons/192.png',
   '/images/icons/512.png',
-  '/images/icons/scalable.svg'
+  '/images/icons/scalable.svg',
+  '/fonts/montserrat-v10-latin-600.woff',
+  '/fonts/montserrat-v10-latin-600.woff2'
 ];
 const ONLINE_ASSETS  = [ // thiings we prefer to use online but will store offline anyway
   '/manifest.json',
