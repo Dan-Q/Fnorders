@@ -1,6 +1,6 @@
 'use strict'; // ES6
 
-const VERSION        = '6';
+const VERSION        = '7';
 const CACHE          = `fnorders-${VERSION}-assets`;
 const OFFLINE_ASSETS = [ // things we prefer to store offline
   '/',
