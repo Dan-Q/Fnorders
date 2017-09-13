@@ -13,20 +13,20 @@ var parts = {
 };
 
 var template = [
-  [[5, ["intro"]], "The", [2, ["adjective"]], "noun", [5, ["in", "place"]], "is", "adjective"],
+  [[5, ["intro"]], "the", [2, ["adjective"]], "noun", [5, ["in", "place"]], "is", "adjective"],
   [[5, ["intro"]], "name", "action", "the", "adjective", "noun", "and the", "adjective", "noun"],
-  [[5, ["intro"]], "The", "noun", "from", "place", "will go to", "place"],
+  [[5, ["intro"]], "the", "noun", "from", "place", "will go to", "place"],
   [[5, ["intro"]], "name", "must take the", "adjective", "noun", "from", "place"],
   [[5, ["intro"]], "place", "is", "adjective", "and the", "noun", "is", "adjective"],
   [[5, ["intro"]], "name", "preposition", "place", "for the", "adjective", "noun"],
-  [[5, ["intro"]], "The", [2, ["adjective"]], "noun", "action", "the", "adjective", "noun", [5, ["in", "place"]]],
+  [[5, ["intro"]], "the", [2, ["adjective"]], "noun", "action", "the", "adjective", "noun", [5, ["in", "place"]]],
   [[5, ["intro"]], "name", "preposition", "place", "and", "action", "the", "noun"],
   [[5, ["intro"]], "name", "takes", "pronoun", [2, ["adjective"]], "noun", "and", "preposition", "place"],
   [[5, ["intro"]], "name", "action", "the", [2, ["adjective"]], "noun"],
   [[5, ["intro"]], "name", "action", "name", "and", "pronoun", [2, ["adjective"]], "noun"],
   [[5, ["intro"]], "name", "is the", [2, ["adjective"]], "noun", ";", "name", "preposition", "place"],
-  [[5, ["intro"]], "You must meet", "name", "at", "place", "and get the", [2, ["adjective"]], "noun"],
-  [[5, ["intro"]], "A", "noun", "from", "place", "action", "the", [2, ["adjective"]], [5, ["adjective"]], "noun"]
+  [[5, ["intro"]], "you must meet", "name", "at", "place", "and get the", [2, ["adjective"]], "noun"],
+  [[5, ["intro"]], "a", "noun", "from", "place", "action", "the", [2, ["adjective"]], [5, ["adjective"]], "noun"]
 ];
 
 var fnordersFromWrapper = document.getElementById("fnorders-from");
