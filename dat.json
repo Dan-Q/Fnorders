@@ -1,0 +1,12 @@
+{
+  "title": "Fnorders",
+  "author": {
+    "name": "Dan Q",
+    "email": "fnorders@danq.me",
+    "web": "https://danq.me/"
+  },
+  "url": "dat://9855a6e2c60041cd8731832d5c17a0b94619f941c81de478c0ada41f739f4c70",
+  "links": {
+    "license": [{"href": "https://www.gnu.org/licenses/gpl-3.0.en.html", "title": "GPLv3"}]
+  }
+}
