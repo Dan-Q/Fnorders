@@ -2,7 +2,7 @@
 
 A Fnorders-generator in the style of [the Fnorder by Steve Jackson Games](http://www.sjgames.com/misc/fnord.html) but using no copyrighted source code, implemented using Javascript and delivered as a [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) with full offline-capability via https://fnorders.com/.
 
-If you're looking for your daily fnorders, go to https://fnorders.com/. On PWA-capable mobile devices you can install the application as an 'app' to your home screen.
+If you're looking for your daily fnorders, go to https://fnorders.com/. On PWA-capable mobile devices you can install the application as an 'app' to your home screen. To ensure that you retain access even if the Bavarian Illuminati destroy The Network, your daily fnorders are also available via dat://fnorders.com/ or dat://9855a6e2c60041cd8731832d5c17a0b94619f941c81de478c0ada41f739f4c70/ using e.g. [Beaker Browser](https://beakerbrowser.com/).
 
 ## Further reading
 
