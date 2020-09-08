@@ -44,3 +44,17 @@ button {
   text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(255, 255, 255, 1);
   outline: 0;
 }
+
+footer {
+  margin-top: 40px;
+  font-size: 50%;
+  font-family: sans-serif;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  background: #0f1579;
+}
